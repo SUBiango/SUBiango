@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SUBiango
-- 👀 I’m interested in Front-end Web Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me? [email me here](mailto:hello@umarubiango.com)
 
