@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUBiango
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning the MERN stack.
+- 👀 I’m interested in computers.
+- 🌱 I’m currently learning System Design.
 - 📫 How to reach me? [email me here](mailto:hello@umarubiango.com)
 
 <!---
